@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
  <metadata>
-   <id>ToDoCDN-dicko2</id>
-   <title>ToDoCDN</title>
-   <authors>Joel Dickson</authors>
+   <id>ToDoCDN-bitnot</id>
+   <title>ToDoCDN (Pavel)</title>
+   <authors>Pavel Kiper</authors>
    <owners>Agoda</owners>
-   <version>0.0.0.0</version>
+   <version>0.0.0.1</version>
    <description>CDN Package for distribution</description>
  </metadata>
  <files>
